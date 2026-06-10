@@ -1,2 +1,2 @@
-Code,Format,Title,Next Steps,Web Help,Local Help
-7,*,Error 7: File Not Found,"Check if the file exists,",https://knowledge.ni.com/KnowledgeArticleDetails?id=kA00Z0000019OgmSAE,
+Code,Format,Title,Reason,Next Steps,Web Help,Local Help
+7,*,Error 7: File Not Found,File is missing,"Check if the file exists,",https://knowledge.ni.com/KnowledgeArticleDetails?id=kA00Z0000019OgmSAE,
