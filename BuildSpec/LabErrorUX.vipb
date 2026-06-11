@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2026-06-03 23:36:44" Modified_Date="2026-06-10 00:13:39" Creator="karthik.abiram" Comments="" ID="1d8fe03fb428fe9d6353f21f7942f65e">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2026-06-03 23:36:44" Modified_Date="2026-06-10 18:32:29" Creator="karthik.abiram" Comments="" ID="bbe89591a7a23c99dbb66e9240ca76aa">
   <Library_General_Settings>
     <Package_File_Name>LabErrorUX</Package_File_Name>
-    <Library_Version>0.0.1.5</Library_Version>
+    <Library_Version>0.0.1.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\Source</Library_Source_Folder>
     <Library_Output_Folder>..\Builds</Library_Output_Folder>
@@ -258,7 +258,7 @@
         <Path>..\Source\Example.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CC6BC213D50F0ED0FE4E6728B7B0C948</GUID>
+      <GUID>509DA9125A7A847E0F06265693B26CCA</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
